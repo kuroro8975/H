@@ -13,6 +13,7 @@
 #define BULLET_SPEED_Y (20.0f)
 #define BULLET_VISIBLE_FRAME 200
 
+//‚ ‚ ‚ ‚ ‚ 
 
 typedef struct Bullet_tag
 {

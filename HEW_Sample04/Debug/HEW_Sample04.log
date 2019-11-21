@@ -1,4 +1,36 @@
-﻿  game.cpp
-c:\users\1\source\repos\hew_sample04\hew_sample04\scene.h(10): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'SCENE_INDEX' の左辺を無視します。
-c:\users\1\source\repos\hew_sample04\hew_sample04\game.cpp(26): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'PHASE_INDEX' の左辺を無視します。
-  HEW_Sample04.vcxproj -> C:\Users\1\source\repos\HEW_Sample04\Debug\HEW_Sample04.exe
+﻿  bullet.cpp
+c:\users\kuror\onedrive\documents\h\hew_sample04\bullet.cpp(104): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  collision.cpp
+c:\users\kuror\onedrive\documents\h\hew_sample04\scene.h(10): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'SCENE_INDEX' の左辺を無視します。
+  enemy.cpp
+  enemybullet.cpp
+c:\users\kuror\onedrive\documents\h\hew_sample04\enemybullet.cpp(105): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  enemylaser.cpp
+c:\users\kuror\onedrive\documents\h\hew_sample04\enemylaser.cpp(140): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+  explosion.cpp
+  fade.cpp
+  game.cpp
+c:\users\kuror\onedrive\documents\h\hew_sample04\scene.h(10): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'SCENE_INDEX' の左辺を無視します。
+c:\users\kuror\onedrive\documents\h\hew_sample04\game.cpp(26): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'PHASE_INDEX' の左辺を無視します。
+  input.cpp
+  main.cpp
+c:\users\kuror\onedrive\documents\h\hew_sample04\scene.h(10): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'SCENE_INDEX' の左辺を無視します。
+  myDirect3D.cpp
+  number.cpp
+  player.cpp
+  result.cpp
+c:\users\kuror\onedrive\documents\h\hew_sample04\scene.h(10): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'SCENE_INDEX' の左辺を無視します。
+  scene.cpp
+c:\users\kuror\onedrive\documents\h\hew_sample04\scene.h(10): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'SCENE_INDEX' の左辺を無視します。
+  score_draw.cpp
+  sound.cpp
+  sprite.cpp
+  table.cpp
+  texture.cpp
+  コードを生成中...
+  コンパイル中...
+  tileMap.cpp
+  title.cpp
+c:\users\kuror\onedrive\documents\h\hew_sample04\scene.h(10): warning C4091: 'typedef ': 変数が何も宣言されていないときは、'SCENE_INDEX' の左辺を無視します。
+  コードを生成中...
+  HEW_Sample04.vcxproj -> C:\Users\kuror\OneDrive\Documents\H\Debug\HEW_Sample04.exe
